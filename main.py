@@ -4,7 +4,7 @@ import numpy as np
 import math
 import time
 
-# --- Configuration ---
+# Configuration
 WIDTH, HEIGHT = 1280, 720
 FPS_TARGET = 30
 
